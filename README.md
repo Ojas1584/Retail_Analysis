@@ -11,8 +11,6 @@ The **Retail Analysis Dashboard** is a comprehensive solution for **retail store
 - Visualize **risk vs reward** and performance metrics for executive decision-making.
 - Create a professional dashboard suitable for **corporate presentations**.
 
----
-
 
 ---
 
@@ -132,8 +130,8 @@ Output: outputs/store_forecast_output_FINAL.csv will be generated with the follo
   
 Key Features:
 - Top KPI Cards: Avg Dec %, Avg Jan %, Forecast Delta %, Total Stores, Star Stores
-- Risk vs Reward Scatter: X-axis Volatility, Y-axis Jan_Prediction, Size = Momentum, Legend = Store_Category
-- Store Category Distribution: Horizontal bar chart of store categories
-- Branch Performance: Clustered column chart for branch-level accountability
+- Risk vs Reward Scatter
+- Store Category Distribution
+- Branch Performance
 - Performance Table: Sorted view of all stores with forecast metrics
 
