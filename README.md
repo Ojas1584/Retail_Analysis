@@ -9,7 +9,7 @@ The **Retail Analysis Dashboard** is a comprehensive solution for **retail store
 - Predict store performance for January using historical data from August to December.
 - Identify **Star Performers**, **High Growth**, **Consistent Laggards**, and other store categories.
 - Visualize **risk vs reward** and performance metrics for executive decision-making.
-- Create a professional dashboard suitable for **internship or corporate presentations**.
+- Create a professional dashboard suitable for **corporate presentations**.
 
 ---
 
